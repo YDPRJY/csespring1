@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class CseController {
 	@GetMapping("/home")
 	public String disp() {
-	return "WELCEOMT TO CSE from YDP to alll third years t oaditya students";
+	return "WELCEOMT TO JENKINS AWS EC WORLS";
 	}
 }
